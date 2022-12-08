@@ -1,7 +1,7 @@
 # COOL_NERDS
 
-## Run the ``` docker build -t [image] ```. to build the docker file
-![](https://img.shields.io/badge/Microverse-blueviolet)
+### Run the ``` docker build -t [image] ```. to build the docker image. Check out steps below
+
 # Cool Nerds Model
 A model built by fine tuning BERT transformer model for location mention recognition. 
 
